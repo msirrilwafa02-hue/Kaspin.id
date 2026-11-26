@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.kaspinid.twa",
+        "sha256_cert_fingerprints": ["17:E0:85:5A:01:89:44:06:DD:2F:44:6C:D6:F0:97:41:C7:8E:86:DB:FA:43:13:C4:E9:30:CB:0D:4B:21:60:92"]
+      }
+    }]
